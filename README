@@ -1,0 +1,14 @@
+autoconf213 (generate configuration scripts)
+
+GNU autoconf 2.13 is an extensible package of m4 macros that
+produce shell scripts to automatically configure software source
+code packages.
+These scripts can adapt the packages to many kinds of UNIX-like
+systems without manual user intervention. Autoconf 2.13 creates a
+configuration script for a package from a template file that lists
+the operating system features that the package can use, in the
+form of m4 macro calls. You must install the "m4" package to be
+able to use autoconf 2.13.
+
+Autoconf 2.13 is required to build some packages including UXP
+based browsers such as Pale Moon and Basilisk.
